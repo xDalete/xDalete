@@ -1,4 +1,3 @@
+[![Dalete GitHub stats](https://github-readme-stats.vercel.app/api?username=xdalete&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=xdalete&show_icons=true&theme=radical)
 
-[![Dalete GitHub stats](https://github-readme-stats.vercel.app/api?username=xDalete&show_icons=true&bg_color=DEG,#CE9FFC,#7367F0)](https://github-readme-stats.vercel.app/api?username=xDalete&show_icons=true&bg_color=DEG,#CE9FFC,#7367F0)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xDalete&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=xDalete&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdalete&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=xdalete&layout=compact&theme=radical)
